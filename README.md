@@ -1,17 +1,17 @@
 # Computer Programming
 
-{1} Basic Computer Foundation
-{2} Programming Mindset
-{3} Basic Programming
-{4} Data Structure & Algorithms ( DSA )
-{5} Programming Paradigms & Concepts
-{6} Programming Tools
+- {1} Basic Computer Foundation
+- {2} Programming Mindset
+- {3} Basic Programming
+- {4} Data Structure & Algorithms ( DSA )
+- {5} Programming Paradigms & Concepts
+- {6} Programming Tools
 
 // Details Roadmap
 
 ## i0.1 1.0 1 - Computer Programming } >> [Subject]
 ### i0.1 1.0 1.1 - Basic Computer Foundation } >> {1}
-#### [i0.1 1.0 1.1.1 - Introduction to Computers] (#
+#### [i0.1 1.0 1.1.1 - Introduction to Computers] (#i0.1 2.1 1.1 - { 1 } Basic Computer Foundation/i0.1 2.1 1.1.1 - Introduction to Computers/Introduction to Computers - 21.06.2026.md)
 - i0.1 1.0 1.1.1 - (1) What is a Computer?
 - i0.1 1.0 1.1.1 - (2) History of Computers
 - i0.1 1.0 1.1.1 - (3) Types of Computers

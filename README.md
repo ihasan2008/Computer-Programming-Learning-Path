@@ -9,18 +9,18 @@
 
 // Details Roadmap
 
-i0.1 1.0 1 - Computer Programming } >> [Subject]
-i0.1 1.0 1.1 - Basic Computer Foundation } >> {1}
-i0.1 1.0 1.1.1 - Introduction to Computers
-i0.1 1.0 1.1.1 - (1) What is a Computer?
-i0.1 1.0 1.1.1 - (2) History of Computers
-i0.1 1.0 1.1.1 - (3) Types of Computers
-i0.1 1.0 1.1.1 - (4) Characteristics of a Computer
-i0.1 1.0 1.1.1 - (5) Components of a Computer
-i0.1 1.0 1.1.1 - (6) Data vs Information
-i0.1 1.0 1.1.1 - (7) Computer System Block Diagram
-i0.1 1.0 1.1.1 - (8) Basic Troubleshooting
-i0.1 1.0 1.1.2 - Computer Hardware
+## i0.1 1.0 1 - Computer Programming } >> [Subject]
+### i0.1 1.0 1.1 - Basic Computer Foundation } >> {1}
+#### i0.1 1.0 1.1.1 - Introduction to Computers
+- i0.1 1.0 1.1.1 - (1) What is a Computer?
+- i0.1 1.0 1.1.1 - (2) History of Computers
+- i0.1 1.0 1.1.1 - (3) Types of Computers
+- i0.1 1.0 1.1.1 - (4) Characteristics of a Computer
+- i0.1 1.0 1.1.1 - (5) Components of a Computer
+- i0.1 1.0 1.1.1 - (6) Data vs Information
+- i0.1 1.0 1.1.1 - (7) Computer System Block Diagram
+- i0.1 1.0 1.1.1 - (8) Basic Troubleshooting
+#### i0.1 1.0 1.1.2 - Computer Hardware
 i0.1 1.0 1.1.2 - (1) Input Devices
 i0.1 1.0 1.1.2 - (2) Output Devices
 i0.1 1.0 1.1.2 - (3) CPU (Central Processing Unit)
